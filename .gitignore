@@ -1,0 +1,10 @@
+.env
+.env.*
+.vercel/
+.venv/
+__pycache__/
+*.pyc
+*.pem
+*.key
+*.dump
+*.log

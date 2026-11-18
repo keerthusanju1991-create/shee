@@ -1,0 +1,14 @@
+.env
+.env.*
+.git/
+.venv/
+node_modules/
+**/__pycache__/
+**/*.pyc
+*.dump
+*.pem
+*.key
+*.log
+scripts/
+migrations/
+backend/seed.py
